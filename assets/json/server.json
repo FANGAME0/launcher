@@ -1,0 +1,23 @@
+[
+    {
+       "title": "Shadow Network",
+       "version": "Currently Shut Down ",
+       "icon": "./assets/images/icons/shadow.png",
+       "link": "./assets/ips/shadow.html",
+       "active": false
+    },
+    {
+       "title": "Clever Teaching",
+       "version": "Survival Is A W",
+       "icon": "./assets/images/icons/clever.png",
+       "link": "./assets/ips/clever.html",
+       "active": true
+    },
+    {
+       "title": "",
+       "version": "",
+       "icon": "./assets/images/icons/",
+       "link": "./assets/ips/",
+       "active": false
+    }
+ ]
